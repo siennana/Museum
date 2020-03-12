@@ -9,38 +9,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 146836576, guid: 0472bdc8d6d15384d98f22ee34302f9c, type: 3}
+  m_Script: {fileID: 0}
   m_Name: ProBuilderPreferences
-  m_EditorClassIdentifier: 
-  m_Bool_keys:
-  - pb_SmoothingGroupEditor::m_ShowPreview
-  - pb_SmoothingGroupEditor::m_DrawNormals
-  - pb_SmoothingGroupEditor::m_PreviewDither
-  - pbEnableBackfaceSelection
-  m_Int_keys:
-  - pbDefaultEditLevel
-  - pbHandleAlignment
-  - pbDragSelectMode
-  - pbDefaultSelectionMode
-  m_Float_keys:
-  - pbEditorScroll.x
-  - pbEditorScroll.y
-  - pb_SmoothingGroupEditor::m_NormalsSize
-  - pb_SmoothingGroupEditor::m_PreviewOpacity
-  m_String_keys:
-  - pbVertexColorPrefs1
-  - pbCurrentMaterialPalette
+  m_EditorClassIdentifier: ProBuilderCore-Unity5:ProBuilder2.Common:pb_PreferenceDictionary
+  m_Bool_keys: []
+  m_Int_keys: []
+  m_Float_keys: []
+  m_String_keys: []
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 01010001
-  m_Int_values: 04000000000000000200000002000000
-  m_Float_values:
-  - 0
-  - 159
-  - 0.001
-  - 0.55
-  m_String_values:
-  - RGBA(0.566, 0.222, 0.222, 1.000)
-  - Assets/Interior/ProCore/ProBuilder/Data/Material Palette.asset
+  m_Bool_values: 
+  m_Int_values: 
+  m_Float_values: []
+  m_String_values: []
   m_Color_values: []
   m_Material_values: []
