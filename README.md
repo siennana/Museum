@@ -1,2 +1,2 @@
 # Virtual 3D Museum Experience
-![image of museum](/images/museum_bottom floor.PNG)
+![Image of museum](Museum/images/museum_bottom floor.PNG)
